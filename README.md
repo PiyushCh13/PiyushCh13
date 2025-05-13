@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Choubey</h1>
-<h3 align="center">Game Developer in the Making</h3>
+<h3 align="center">Game Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://piyushch13.itch.io/](https://piyushch13.itch.io/)
 
